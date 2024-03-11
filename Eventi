@@ -1,6 +1,9 @@
-
-
+<!DOCTYPE html>
+<html lang="it">
+<head>
 <h2>Prossimi Eventi: festa reggaeton</h2>
+</head>
+<body>
 <ul>
 <li>
 <h3>Reggaeton party</h3>
@@ -20,3 +23,5 @@
 <img src="fotodiscoteca.jpg" alt="Evento Talia's">
 </li>
 </ul>
+</body>
+</html>
